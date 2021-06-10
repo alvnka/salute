@@ -1,0 +1,21 @@
+h1 {
+  color:rgb(102, 218, 193);
+  text-align: center;
+  size: 115 cm;
+}
+h2 {
+  color:rgb(121, 221, 174);
+  font-style:italic;
+  text-align:center;
+  size:50 cm;
+}
+p{
+  font-family:sans-serif;
+  color: rgb(255, 255, 255);
+  size: 80px;
+}
+ul{
+  line-height:40px;
+  color: bisque;
+  size:45 cm;
+}
